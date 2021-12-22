@@ -6,9 +6,9 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <h1>Welcome to oklabs training</h1>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('a1')
 );
 
 // If you want to start measuring performance in your app, pass a function
